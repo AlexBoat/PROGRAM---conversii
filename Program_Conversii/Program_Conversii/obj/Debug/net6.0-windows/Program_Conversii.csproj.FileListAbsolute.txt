@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\bin\Debug\net6.0-windows\Program_Conversii.exe
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\bin\Debug\net6.0-windows\Program_Conversii.deps.json
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\bin\Debug\net6.0-windows\Program_Conversii.runtimeconfig.json
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\bin\Debug\net6.0-windows\Program_Conversii.dll
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\bin\Debug\net6.0-windows\Program_Conversii.pdb
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\obj\Debug\net6.0-windows\Program_Conversii.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\obj\Debug\net6.0-windows\Program_Conversii.Form1.resources
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\obj\Debug\net6.0-windows\Program_Conversii.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\obj\Debug\net6.0-windows\Program_Conversii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\obj\Debug\net6.0-windows\Program_Conversii.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\obj\Debug\net6.0-windows\Program_Conversii.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\obj\Debug\net6.0-windows\Program_Conversii.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\obj\Debug\net6.0-windows\Program_Conversii.dll
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\obj\Debug\net6.0-windows\refint\Program_Conversii.dll
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\obj\Debug\net6.0-windows\Program_Conversii.pdb
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\obj\Debug\net6.0-windows\Program_Conversii.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Things\Program_Conversii\Program_Conversii\obj\Debug\net6.0-windows\ref\Program_Conversii.dll
